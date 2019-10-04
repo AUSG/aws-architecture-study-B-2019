@@ -18,7 +18,7 @@
     - [이은규: MySQL 데이터베이스 생성 및 연결](https://aws.amazon.com/ko/getting-started/tutorials/create-mysql-db/?trk=gs_card)
     - [이유진: Docker 컨테이너 배포 (ECS)](https://aws.amazon.com/ko/getting-started/tutorials/deploy-docker-containers/?trk=gs_card)
     - [이시연: NoSQL 테이블 생성 및 쿼리](https://aws.amazon.com/ko/getting-started/tutorials/create-nosql-table/?trk=gs_card)
-    - [신동선: ]()
+    - [신동선: 지속적 배포 파이프라인 설정](https://aws.amazon.com/ko/getting-started/tutorials/continuous-deployment-pipeline/?trk=gs_card)
 
 ## 오프라인 스터디
 ```
