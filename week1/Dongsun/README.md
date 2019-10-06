@@ -1,4 +1,5 @@
 #지속적 배포 파이프라인 설정
+
 :star2: 간단한 배포 파이프라인 travisCI와는 조금 느낌이 다르다. AWS에 다 맡겨라! 느낌이다. elastic beanstalk이 모든걸 다 알아서 해준다.
 
 ###1. docker-codepipeline 이라는 폴더 생성 
