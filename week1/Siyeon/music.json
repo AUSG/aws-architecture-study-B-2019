@@ -1,0 +1,31 @@
+{
+  "Music": [
+    {
+      "PutRequest": {
+        "Item": {"Id": {"S": "B1"}, "Artist": {"S": "Las Lunas"}, "songTitle": {"S": "Days of Silence"}}
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {"Id": {"S": "C1"}, "Artist": {"S": "Green Day"}, "songTitle": {"S": "Basket Case"}}
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {"Id": {"S": "D1"}, "Artist": {"S": "10cm"}, "songTitle": {"S": "Phoncert"}}
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {"Id": {"S": "D1"}, "Artist": {"S": "Daniel Powter"}, "songTitle": {"S": "Bad Day"}}
+      }
+    },
+        {
+      "PutRequest": {
+        "Item": {"Id": {"S": "D1"}, "Artist": {"S": "One Direction"}, "songTitle": {"S": "What Makes You Beautiful"}}
+      }
+    }
+  ]
+}
+ 
+
