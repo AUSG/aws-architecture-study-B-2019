@@ -1,4 +1,16 @@
-## Arichecture study 2주차
+# Arichecture study 2주차
+
+## CloudWatch와 Lambda를 이용한 간단한 SlackBot
+
+[CloudWatch와 Lambda를 이용한 간단한 SlackBot](https://senticoding.tistory.com/85) 만드는 글을 블로그에 적어봤어요~
+
+### 미리보기
+
+![preview1.png](preview1.png)
+
+![preview2.png](preview2.png)
+
+CloudWatch 로 EC2 Instance의 CPU Utilization을 모니터링하고 Labmda로 event를 받으면 Slack에 전달한다.
 
 
 
