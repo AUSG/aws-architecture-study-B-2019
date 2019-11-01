@@ -1,0 +1,27 @@
+## 2019 AWS Architecture Study B Group
+
+### Week2
+
+## CloudWatch
+
+https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html
+
+책의 내용 중 Period 설정 범위가 최소 1minute인데, 현재 10second 까지 가능
+
+but 1day 이하의 간격은 전부 정확성이 떨어질 수 있다는 warning이 발생
+
+whenever this alarm 조건을 쉽게 설명하면
+
+period : 1 minute
+is : >= 30;
+for : 3 out of 3
+
+1분 간격 동안이
+세번 반복될 때
+즉 3분이 지났는데 각 간격에서 설정한 측정치가 3번이상 넘겼을 때
+
+whenever this alarm에 설정한 조건 실행
+
+실습해볼 아키텍쳐:
+
+https://galid1.tistory.com/369
